@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.frmAltaMascota.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\bin\Debug\CRUDveterinaria.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\bin\Debug\CRUDveterinaria.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\bin\Debug\CRUDveterinaria.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDveterinaria-main\obj\Debug\CRUDveterinaria.pdb
